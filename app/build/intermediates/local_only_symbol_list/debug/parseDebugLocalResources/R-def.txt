@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Name
+id ViewName
+id ViewPrice
+id ViewSite
+id main
+id price
+id savebutton
+id urlsite
+id wishyrv
+layout activity_main
+layout wishlistitem
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.WishListToo
+style Theme.WishListToo
+xml backup_rules
+xml data_extraction_rules
