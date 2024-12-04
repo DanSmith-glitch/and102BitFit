@@ -5,13 +5,12 @@ color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id Name
+id ViewCal
 id ViewName
-id ViewPrice
-id ViewSite
+id ViewNum
+id cals
 id main
-id price
 id savebutton
-id urlsite
 id wishyrv
 layout activity_main
 layout wishlistitem

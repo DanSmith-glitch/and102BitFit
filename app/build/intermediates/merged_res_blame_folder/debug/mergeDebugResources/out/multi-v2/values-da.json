@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.wishlisttoo.app-mergeDebugResources-29:/values-da/values-da.xml",
+            "outputFile": "com.example.wishlisttoo.app-mergeDebugResources-39:/values-da/values-da.xml",
             "map": [
                 {
                     "source": "C:\\Users\\wanie\\.gradle\\caches\\transforms-4\\aad39a1c0706ab6a5a30470c2306073d\\transformed\\core-1.13.1\\res\\values-da\\values-da.xml",

@@ -3111,9 +3111,9 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id ViewCal
 id ViewName
-id ViewPrice
-id ViewSite
+id ViewNum
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -3201,6 +3201,7 @@ id bounceStart
 id buttonPanel
 id cache_measures
 id callMeasure
+id cals
 id cancel_button
 id carryVelocity
 id center
@@ -3455,7 +3456,6 @@ id pin
 id position
 id postLayout
 id pressed
-id price
 id progress_circular
 id progress_horizontal
 id radio
@@ -3584,7 +3584,6 @@ id unchecked
 id uniform
 id unlabeled
 id up
-id urlsite
 id useLogo
 id vertical_only
 id view_offset_helper
